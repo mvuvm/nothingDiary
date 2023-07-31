@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5631da21.css",
+    "main.js": "/static/js/main.79fe2b44.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Yeongdeok-Sea.woff": "/static/media/Yeongdeok-Sea.f360e67f5d907f8cbee1.woff",
+    "static/media/bg-waves.png": "/static/media/bg-waves.c8b564872881bf4932d6.png",
+    "index.html": "/index.html",
+    "main.5631da21.css.map": "/static/css/main.5631da21.css.map",
+    "main.79fe2b44.js.map": "/static/js/main.79fe2b44.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5631da21.css",
+    "static/js/main.79fe2b44.js"
+  ]
+}
